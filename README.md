@@ -1,6 +1,7 @@
 <h1 align="center"> Welcome to Embed Sender 👋 </h1>
 <h3 align="center"> Send embeds using your discord personal account </h3>
- 
+<img alt="tool" src="https://user-images.githubusercontent.com/70416087/145054830-781e0d40-5155-45f5-88db-33245b17f6ad.png" />
+
 ## Install
 ```sh
 pip install -r requirements.txt
