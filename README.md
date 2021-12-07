@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to Embed Sender 👋 </h1>
 <h4 align="center"> Send embeds using your discord personal account </h4>
-<img alt="tool" align="center" src="https://user-images.githubusercontent.com/70416087/145054830-781e0d40-5155-45f5-88db-33245b17f6ad.png" />
+<img alt="tool" src="https://user-images.githubusercontent.com/70416087/145055166-2bfda0a6-a8e6-4a67-aa30-4de98dc6a35e.png" />
 
 ## Install
 ```sh
