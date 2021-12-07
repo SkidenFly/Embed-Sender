@@ -1,0 +1,3 @@
+Colr==0.9.1
+pyfiglet==0.8.post1
+requests==2.25.1
