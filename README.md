@@ -19,7 +19,7 @@ python -m embeds
 ## Author
 👤 **SkydenFly**
 * Twitter: [@SkydenF](https://twitter.com/SkydenF)
-* GitHub: [@SkidenFly](https://github.com/{github_username})
+* GitHub: [@SkidenFly](https://github.com/SkidenFly)
 * Discord: SkydenFly#1967
 * Dev team: [SkillTeam](https://discord.gg/82BM3BqmDC)
 * Youtube Channel: [SkydenFly](https://youtube.com/c/SkydenFly)
@@ -29,6 +29,6 @@ Contributions, issues and feature requests are welcome!
 
 ## 📝 License
 
-Copyright © 2021 [SkidenFly](https://github.com/skidenfly).<br/>
+Copyright © 2021 [SkidenFly](https://github.com/SkidenFly).<br/>
 This project is [GNU](https://github.com/SkidenFly/Embed-Sender/blob/main/LICENSE) licensed.!!
 
