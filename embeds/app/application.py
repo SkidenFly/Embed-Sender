@@ -249,6 +249,7 @@ class Application:
         print("File saved as embed.json")
         return Console.pause()
 
+    
     def send(self):
         """ Sends embed to the channel """       
         
@@ -256,18 +257,10 @@ class Application:
             print("Channel ID not set")
             return Console.pause()
             
-
         if not self.__embed:
             print("Embed not set")
             return Console.pause()
         
-        for key in self.__embed:
-            if not key:
-                self.__embed.pop(key)
-            
-            for subkey in key:
-                if not subkey:
-                    self.__embed[key].pop(subkey)
         
         return requests.post(
             f"https://discordapp.com/api/v6/channels/{self.__channel_id}/messages", 
