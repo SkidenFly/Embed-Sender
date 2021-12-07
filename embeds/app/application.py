@@ -222,10 +222,10 @@ class Application:
             res = requests.post(
                 "https://discordapp.com/api/v6/users/@me/channels", 
                 headers= self.__headers, 
-                json= {"recipient_id": self.channel_id}
+                json= {"recipient_id": self.__channel_id}
             )
 
-            self.channel_id = res.json().get("id")
+            self.__channel_id = res.json().get("id")
 
 
     def import_embed(self):
