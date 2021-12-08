@@ -213,7 +213,7 @@ class Application:
         self.banner()
         
         print("Channel ID: ")
-        self.__channel_id = Console.get_input()
+        self.__channel_id = int(Console.get_input())
 
         print("Is DM? (y/n)")
         option = Console.get_input().lower()
